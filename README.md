@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/GuilhermeSebasti4o">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=guisebastiao&show_icons=true&theme=onedark"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=guisebastiao&show_icons=true&theme=onedark"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisebastiao&langs_count=8&theme=onedark"/>
 </div>
   
