@@ -7,5 +7,6 @@
 
 <div>
   <a href="https://github.com/GuilhermeSebasti4o">
-  <img height="180px" src="https://github-readme-stats.vercel.app?username=GuilhermeSebasti4o&show_icons=true&theme=dracula&include_all_commits=true&count_private_true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app?top-langs/?username=GuilhermeSebasti4o&layout=compact&langs_count=168&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSebasti4o&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSebasti4o&langs_count=8&theme=onedark"/>
+</div>
