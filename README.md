@@ -10,14 +10,14 @@
 
 <div>
   <a href="https://github.com/GuilhermeSebasti4o">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSebasti4o&show_icons=true&theme=onedark"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSebasti4o&langs_count=8&theme=onedark"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=guisebastiao&show_icons=true&theme=onedark"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisebastiao&langs_count=8&theme=onedark"/>
 </div>
   
 <div>
   <a href="mailto:contato@guilhermesebastiaou.u@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/guisebastiao_/#" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://wa.me/5551994155941" target="_black"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="" target="_black"><img src=""></a>
-  <a href="" target="_black"><img src=""></a>
 </div>
+  
+![Snake animation](https://github.com/guisebastiao/blob/output/github-contribution-grid-snake.svg)
