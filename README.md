@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/GuilhermeSebasti4o">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSebasti4o&show_icons=true&theme=onedark"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSebasti4o&langs_count=8&theme=onedark"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=GuiSebastiao&show_icons=true&theme=onedark"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebastiao&langs_count=8&theme=onedark"/>
 </div>
   
 <div>
