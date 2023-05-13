@@ -8,7 +8,7 @@
   <li>📧 Contato: guilhermesebastiaou.u@gmail.com</li>
 </ul>
 
-<div>
+<div style="display: flex; flex-direction: column;">
   <a href="https://github.com/GuilhermeSebasti4o">
   <img src="https://github-readme-stats.vercel.app/api?username=guisebastiao&show_icons=true&theme=onedark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisebastiao&langs_count=8&theme=onedark"/>
